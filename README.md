@@ -1,1 +1,1 @@
-# PS_7
+# PS_Practical 7
